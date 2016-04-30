@@ -1,0 +1,95 @@
+players:
+{
+width: 50
+height: 75
+posX: -1860
+posY: 960
+highJump: 15
+r: 0.97
+g: 0.38
+b: 0.3
+}
+{
+width: 500
+height: 50
+posX: -1860
+posY: 850
+highJump : 15
+r: 0.2
+g: 0
+b: 0.6
+}
+{
+width: 20
+height: 85
+posX: -1900
+posY: 970
+highJump: 20
+r: 1
+g: 0.98
+b: 0.47
+}
+
+finalPositions:
+{
+posX: 1150
+posY: 512
+}
+{
+posX: 510
+posY: 275
+}
+{
+posX: 1150
+posY: 850
+}
+
+colliders:
+{
+width: 400
+height: 1200
+posX: -1860
+posY: 200
+}
+{
+width: 200
+height: 200
+posX: -950
+posY: 400
+}
+{
+width: 1500
+height: 600
+posX: 780
+posY: -50
+}
+{
+width: 1200
+height: 600
+posX: -1060
+posY: -50
+}
+{
+width: 400
+height: 400
+posX: 1150
+posY: 275
+}
+{
+width: 200
+height: 3000
+posX: -2160
+posY: 960
+}
+{
+width: 3610
+height: 200
+posX: -270
+posY: -440
+}
+{
+width: 200
+height: 3000
+posX: 1450
+posY: 960
+}
